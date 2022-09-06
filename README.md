@@ -12,8 +12,8 @@ Simple Toast Library
               }
 	      
 	      
-    For Android Studio Version Bumblebee | 2021.1.1 and higher
-    Add it in settings.gradle:
+   ##### For Android Studio Version Bumblebee | 2021.1.1 and higher
+   ##### Add it in settings.gradle:
 	      
 	      dependencyResolutionManagement {
     		...
